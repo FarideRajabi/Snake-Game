@@ -1,0 +1,23 @@
+.Item{
+    background-color: #ffebcd;
+    border: 1px solid gold;
+    font:15px "Shabnam FD";
+    color: #000;
+    text-align: center;
+    line-height: 33px;
+  }
+  .Food{
+        background-color: gold;
+        font:15px "Shabnam FD";
+        color: #000;
+        text-align: center;
+        line-height: 33px;
+      }
+  
+      .Snake{
+        background-color: blue;
+        font:15px "Shabnam FD";
+        color: #000;
+        text-align: center;
+        line-height: 33px;
+      }
